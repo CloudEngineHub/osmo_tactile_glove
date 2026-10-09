@@ -7,6 +7,8 @@ Project website: [jessicayin.github.io/osmo_tactile_glove](https://jessicayin.gi
 
 ArXiv: [https://arxiv.org/abs/2512.08920](https://arxiv.org/abs/2512.08920)
 
+## UPDATE: DIY Kit for OSMO is now available here: [https://shop.wowrobo.com/products/osmo-tactile-glove?variant=49244977856729](https://shop.wowrobo.com/products/osmo-tactile-glove?variant=49244977856729)
+
 # OSMO Hardware
 
 Hardware guides and PCB files are on the `website` branch of this repo.
